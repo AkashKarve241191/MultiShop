@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F27B9E75-3D01-4875-8C40-EFEBF08BC15C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryService", "src\InventoryService\InventoryService.csproj", "{87346C3F-458B-4E41-B61C-DADE508C9B1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87346C3F-458B-4E41-B61C-DADE508C9B1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87346C3F-458B-4E41-B61C-DADE508C9B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87346C3F-458B-4E41-B61C-DADE508C9B1D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{87346C3F-458B-4E41-B61C-DADE508C9B1D}.Debug|x64.Build.0 = Debug|Any CPU
+		{87346C3F-458B-4E41-B61C-DADE508C9B1D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{87346C3F-458B-4E41-B61C-DADE508C9B1D}.Debug|x86.Build.0 = Debug|Any CPU
+		{87346C3F-458B-4E41-B61C-DADE508C9B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87346C3F-458B-4E41-B61C-DADE508C9B1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87346C3F-458B-4E41-B61C-DADE508C9B1D}.Release|x64.ActiveCfg = Release|Any CPU
+		{87346C3F-458B-4E41-B61C-DADE508C9B1D}.Release|x64.Build.0 = Release|Any CPU
+		{87346C3F-458B-4E41-B61C-DADE508C9B1D}.Release|x86.ActiveCfg = Release|Any CPU
+		{87346C3F-458B-4E41-B61C-DADE508C9B1D}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{87346C3F-458B-4E41-B61C-DADE508C9B1D} = {F27B9E75-3D01-4875-8C40-EFEBF08BC15C}
+	EndGlobalSection
+EndGlobal
